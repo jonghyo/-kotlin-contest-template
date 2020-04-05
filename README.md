@@ -1,0 +1,1 @@
+# -kotlin-contest-template
