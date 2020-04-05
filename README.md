@@ -1,1 +1,1 @@
-# -kotlin-contest-template
+# kotlin-contest-template
