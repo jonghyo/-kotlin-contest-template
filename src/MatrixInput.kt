@@ -1,5 +1,5 @@
 fun main(args: Array<String>) {
-    val testcase = Integer.parseInt(readLine())
+    val t = Integer.parseInt(readLine())
     repeat(t) { index ->
         //input number
         val n = Integer.parseInt(readLine())
